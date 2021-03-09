@@ -1,3 +1,0 @@
-Function Login
-
-Function ShoppingCart
